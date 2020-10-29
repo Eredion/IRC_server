@@ -1,2 +1,2 @@
-# ft_irc
-IRC server - RFC compliant
+# IRC
+IRC server (C++) - RFC compliant
